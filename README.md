@@ -17,7 +17,7 @@ A super clean, modern desktop app to turn your photos into PDFs. Drag & drop (or
 ```bash
 
 git clone https://github.com/VasilisKokotakis/PDF-Converter.git
-cd image-to-pdf-converter
+cd PDF converter
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
 # .venv\Scripts\activate  # Windows
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 2. **Run it**
 ```bash
-python modern_image_to_pdf.py
+python image_to_pdf.py
 ```
 
 3. **Use it**
@@ -66,8 +66,3 @@ Found a bug? Have a feature idea? Open an issue or PR!
 ```
 
 ***
----
-
-> *Perfect for receipts, screenshots, drone photos, or any image batch you need as PDF!* 🚀
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/42513711/73187880-0713-42fa-b4c4-a8312c572ab9/image.jpg)
