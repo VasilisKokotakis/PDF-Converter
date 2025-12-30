@@ -15,7 +15,8 @@ A super clean, modern desktop app to turn your photos into PDFs. Drag & drop (or
 
 1. **Clone & install**
 ```bash
-git clone https://github.com/VasilisKokotakis/image-to-pdf-converter.git
+
+git clone https://github.com/VasilisKokotakis/PDF-Converter.git
 cd image-to-pdf-converter
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
