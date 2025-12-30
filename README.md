@@ -3,8 +3,8 @@
 A super clean, modern desktop app to turn your photos into PDFs. Drag & drop (or browse), preview with thumbnails, and export with perfect colors/orientation. Built for Linux/Debian but works everywhere!
 
 ## Features
-- **Modern dark UI** with CustomTkinter (looks native!)
-- **Image previews** with correct colors (no more weird rotations)
+- **Modern dark UI** with CustomTkinter
+- **Image previews** with correct colors
 - **File size display** and individual remove buttons
 - **Progress bar** during conversion
 - **Handles EXIF orientation** automatically
