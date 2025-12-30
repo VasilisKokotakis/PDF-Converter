@@ -10,7 +10,7 @@ class ImageToPDFApp:
     def __init__(self):
         self.root = ctk.CTk()
         self.root.title("Image to PDF Converter")
-        self.root.geometry("900x700")  # Fixed height from "900x00"
+        self.root.geometry("900x700")
         self.root.resizable(True, True)
         
         self.file_paths = []
