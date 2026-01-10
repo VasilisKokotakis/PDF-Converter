@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+
+# PyInstaller
+*.spec
+
+# Generated files / folders
+PDF/
+Photos/
+
+# OS
+.DS_Store
